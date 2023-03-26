@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Illinois at Urbana Champaign',
+    degree: 'B.S. Data Science and Information Science | James Scholar Honors Student',
+    link: 'https://illinois.edu',
+    year: 2025,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Vernon Hills High School',
+    degree: 'High School',
+    link: 'https://www.d128.org/vhhs',
+    year: 2021,
   },
 ];
 

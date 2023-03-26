@@ -1,47 +1,48 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Illini Blockcahin Layer 2 Article',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    image: '/images/projects/comingsoon.jpg',
+    date: '2023-04-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Writing a Paper on Blockchain Layer 2 Performance. '
+      + 'We are using SQL and Python to analyze data on different Ethereum, Bitcoin and Solana Layer 2. '
+      + 'This Project is Expected to be finished by the end of the month. '
+      + 'This is article is apart of my Illini Blockchain Team.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'First Project Dabbling into NLP with Amazon Reviews',
+    subtitle: 'Used NLTK, python and Jupyter',
+    link: '',
+    image: '/images/projects/NLP.jpg',
+    date: '2023-01-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Used basic NLP to analyze Amazon Reviews to determine if a review is postive or negative. '
+      + 'Used VADER sentiment scoring to compared that score with the amazon review Star system(1-5 starts) and Found that they are similar. '
+      + 'This is my first project with NLP and I am eager to produce more in the future. Please email me for a copy.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Netflix Analysis',
+    subtitle: 'Analyzed a Netflix Dataset on Kaggle to make unique inforgraphics',
+    link: 'https://docs.google.com/presentation/d/1VLEXmdZEkhYGIAG_zR_HhjCQF_czl-3k9n3UhJJ3OKg/edit?usp=sharing',
+    image: '/images/projects/Netflix.jpg',
+    date: '2023-03-14',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Used Tableau to take a deeper dive into Netfllix. '
+      + 'Analyzed the popularity of each genre and compared different global netflix statistics. '
+      + 'You can email me for a copy of the Tableau File.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Scroll Website',
+    subtitle: 'Used HTML, Javascript, and CSS to build the first website for the SCROLL Startup',
+    link: 'https://tbath18.github.io/Scroll.github.io/',
+    image: '/images/projects/SCROLL.jpg',
+    date: '2023-02-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'This is the Main overview website for SCROLL. '
+      + 'There is about over 600 lines of code powering this site and also Hosts the link to the prototype. '
+      + 'This is also the first website I ever made!',
   },
 ];
 
