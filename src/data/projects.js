@@ -7,7 +7,7 @@ const data = [
     date: '2023-04-20',
     desc:
       'Writing a Paper on Blockchain Layer 2 Performance. '
-      + 'We are using SQL and Python to analyze data on different Ethereum, Bitcoin and Solana Layer 2. '
+      + 'Using SQL and Python to analyze data on different Ethereum, Bitcoin and Solana Layer 2. '
       + 'This Project is Expected to be finished by the end of the month. '
       + 'This is article is apart of my Illini Blockchain Team.',
   },
