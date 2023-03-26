@@ -10,6 +10,10 @@ const validateText = (text) => {
 
 const messages = [
   'bathinitarun',
+  'BATHINITARUN',
+  'BathiniTarun',
+  'bathiniTarun',
+  'Bathinitarun'
 ];
 
 const useInterval = (callback, delay) => {
