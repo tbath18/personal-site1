@@ -10,7 +10,6 @@ const validateText = (text) => {
 
 const messages = [
   'bathinitarun',
-  'thisisalsome',
   'BATHINITARUN',
   'BathiniTarun',
   'bathiniTarun',
