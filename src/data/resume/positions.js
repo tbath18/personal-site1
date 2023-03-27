@@ -24,7 +24,7 @@ const positions = [
   {
     company: 'Center for Disease Control at UIUC',
     position: 'Research Assitant for Data Analysis',
-    link: 'http://enveritas.org',
+    link: 'https://www.cdc.gov',
     daterange: 'August 2022 - Present',
     points: [
       'Collaborated with Professor Rebecca Smith to create an Online Data Analysis Application to measure mosquito insecticide effectiveness within the United States.',
