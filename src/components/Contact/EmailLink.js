@@ -13,7 +13,7 @@ const messages = [
   'BATHINITARUN',
   'BathiniTarun',
   'bathiniTarun',
-  'Bathinitarun'
+  'Bathinitarun',
 ];
 
 const useInterval = (callback, delay) => {
