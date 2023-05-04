@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Tarun. I like Tennis, Blockchain and Podcasts.
         I am a <a href="https://illinois.edu">University of Illinois</a> student, Vernon Hills High School Alumni, and
-        the co-founder and CTO of <a href="https://tbath18.github.io/Scroll.github.io/">SCROLL</a>.
+        the co-founder and CTO of <a href="https://tbath18.github.io/web3/">SCROLL</a>.
       </p>
       <ul className="actions">
         <li>

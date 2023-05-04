@@ -36,8 +36,8 @@ const data = [
   {
     title: 'Scroll Website',
     subtitle: 'Used HTML, Javascript, and CSS to build the first website for the SCROLL Startup',
-    link: 'https://tbath18.github.io/Scroll.github.io/',
-    image: '/images/projects/SCROLL.jpg',
+    link: 'https://tbath18.github.io/web3/',
+    image: '/images/projects/web3.jpg',
     date: '2023-02-15',
     desc:
       'This is the Main overview website for SCROLL. '

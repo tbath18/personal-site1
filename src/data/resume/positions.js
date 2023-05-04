@@ -35,7 +35,7 @@ const positions = [
   {
     company: 'SCROLL',
     position: 'Co-founder',
-    link: 'https://tbath18.github.io/Scroll.github.io/',
+    link: 'https://tbath18.github.io/web3/',
     daterange: 'December 2022 - Present',
     points: [
       'Developing an App that uses generative AI to turn educational material into a social media-style feed that users can scroll through (Utlizing the Infinite Scroll Effect).',
