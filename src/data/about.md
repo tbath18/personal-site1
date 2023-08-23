@@ -4,7 +4,7 @@
 My name is Tarun Bathini. I am a Junior at the University of Illinois at Urbana Champaign studying Data Science and Information Science. I am an active member in UIUC Club Tennis, Illini Blockchain, Data Science Club and EDM Club. My intrests include NLP, Blockchain, Artifical Intelligence, Machine Learning, Statistics, and  Data Science. 
 # Currently
 
-I am a Co-Founder of a Start-up called SCROLL where we aim to innovative an app that changes the way students study with the Artificial Intelligence. I am also an aspiring Data Scientist and Machine Learning Engineer. I am looking for any internship roles in Data Science space for this summer. 
+I am a AI Intern at Synchrony Financial and a Co-Founder of a Start-up called SCROLL where we aim to innovative an app that changes the way students study with the Artificial Intelligence. I am also an aspiring Data Scientist and Machine Learning Engineer. I am looking for any internship roles in Data Science space for this summer. 
 
 # I like
 

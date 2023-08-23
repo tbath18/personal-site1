@@ -1,5 +1,16 @@
 const positions = [
   {
+    company: 'Synchrony Financial',
+    position: 'Artificial Intelligence Intern',
+    link: 'https://www.synchrony.com',
+    daterange: 'May 2023 - Present',
+    points: [
+      'Researched and found multiple ways to incorporate generative AI into the Fin-Tech space while also looking at the viability of AI in the market.',
+      'Built an Object Detection bot using Python in the OpenCV library trained on custom data. This bot is used to scan and search for objects from Synchrony vendors through pictures on a database I designed of over 500 products.',
+      'Pitched and developed a PTO for an AI marketplace application that uses the Chat GPT API to find items a customer may like based on any theme they choose such as a tv show, song or a character (thematic shopping).',
+    ],
+  },
+  {
     company: 'Institute for Genomic Biology',
     position: 'Bioinformatics Research Intern',
     link: 'https://www.igb.illinois.edu',
