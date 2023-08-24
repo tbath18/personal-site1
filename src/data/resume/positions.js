@@ -11,6 +11,39 @@ const positions = [
     ],
   },
   {
+    company: 'SCROLL',
+    position: 'Co-founder',
+    link: 'https://tbath18.github.io/web3/',
+    daterange: 'December 2022 - Present',
+    points: [
+      'Developing an application that uses generative AI to turn text(datasets, textbooks, websites) into a Social Media Style digestible feed, utilizing the infinite scroll effect. Working with Professors and PhD students in the Computer Science, Information Science and Business Departments at the University of Illinois.',
+      'Participated in two Pitch Competitions for innovation receiving over $1,250 in funding and found that the product is 100% student and professor recommended. Joined I-Corps start-up accelerator.',
+      'Trademarked company and engineered a concpet/POC to advertise to educational proffesionals. ',
+      'Built Company Website Using HTML, JavaScript, and CSS.',
+    ],
+  },
+  {
+    company: 'Illini Blockchain',
+    position: 'Data Science Researcher',
+    link: 'https://illiniblockchain.com',
+    daterange: 'December 2022 - Present',
+    points: [
+      'Published a paper on Layer 2 Blockchain platforms and compared each network with data extracted from Flipside Crypto using python for data analysis. Developed leadership and teamwork skills while creating the paper as we learned to use SQL, do high level research, gain technical writing skills, and instill passion within each other.',
+      'Used SQL to extract insights on these Layer 2 platforms specifically looking at variables that may affect Market Share such as the number of transactions per day and the number of users on each platform. Presented Findings at the Gies Blockchain Summit to Leaders in the blockchain field.',
+      'Researched and discussed Web3 and Blockchain topics to develop online learning resources.',
+    ],
+  },
+  {
+    company: 'Center for Disease Control at UIUC',
+    position: 'Research Assitant for Data Analysis',
+    link: 'https://www.cdc.gov',
+    daterange: 'August 2022 - Present',
+    points: [
+      'Collaborated with Professor Rebecca Smith and other PhD students to create an online Data Analysis Application to measure mosquito insecticide effectiveness within the United States.',
+      'Engineered the application using the R programming language and libraries such as ggplot, r-shiny and tidyr. Utilized data extracted from the CDC database to create meaningful visualizations.',
+    ],
+  },
+  {
     company: 'Institute for Genomic Biology',
     position: 'Bioinformatics Research Intern',
     link: 'https://www.igb.illinois.edu',
@@ -23,56 +56,12 @@ const positions = [
     ],
   },
   {
-    company: 'Illini Blockchain',
-    position: 'Data Science Researcher',
-    link: 'https://illiniblockchain.com',
-    daterange: 'December 2022 - Present',
-    points: [
-      'Research and discuss Web3 and Blockchain topics to develop online learning resources.',
-      'Working to publish a paper on effectivness of Layer 2 Blockchain Platforms like Polygon, Optimism and Liquid-Network.',
-    ],
-  },
-  {
-    company: 'Center for Disease Control at UIUC',
-    position: 'Research Assitant for Data Analysis',
-    link: 'https://www.cdc.gov',
-    daterange: 'August 2022 - Present',
-    points: [
-      'Collaborated with Professor Rebecca Smith to create an Online Data Analysis Application to measure mosquito insecticide effectiveness within the United States.',
-      'Worked with Professor Bo Li, Head of Statistics Department at UIUC, and graduate students to create the program in R and R-Shiny.',
-      'Utilized data extracted from the CDC database to create meaningful data visualizations.',
-    ],
-  },
-  {
-    company: 'SCROLL',
-    position: 'Co-founder',
-    link: 'https://tbath18.github.io/web3/',
-    daterange: 'December 2022 - Present',
-    points: [
-      'Developing an App that uses generative AI to turn educational material into a social media-style feed that users can scroll through (Utlizing the Infinite Scroll Effect).',
-      'Built Company Website using Javascript, HTML, and CSS.',
-      'Working with Professors at the University of Illinois from the Computer Science, Information Science and Buisness Departments.',
-      'Participating in Start-Up Compeitions such as Cozad, Engineering Open House, Microsoft for Startups and many more to come.',
-    ],
-  },
-  {
-    company: 'Kaggle Team',
-    position: 'Co-Founder',
-    link: '',
-    daterange: 'December 2021 - Present',
-    points: [
-      'Participated in Kaggle competitions and gained experience in multiple python libraries.',
-      'Created personal interest projects that displayed analytics on Kaggle Datasets. Projects displayed graphics on pokemon, Tennis and Covid-19 data.',
-      'Gained certifications in Machine Learning, NumPy, Pandas, SQL.',
-    ],
-  },
-  {
-    company: "Taruns' Tennis Academy",
+    company: 'Tennis Academy',
     position: 'Tennis Instructor',
     link: '',
     daterange: 'Runs Every Summer Since May, 2021',
     points: [
-      'Conducted a tennis clinic for children aged 5 – 14 and procured lesson plans to teach the fundamentals of the sport.',
+      'Conducted a tennis clinic for children aged 5 to 14 and procured lesson plans to teach the fundamentals of the sport.',
       'Attained crucial leaderships skills by teaching and organizing youth camps of up to 16 eager tennis players.',
       "Maintained welcoming and open communication channels for students' and their parents.",
       'Instilled passion into over 20 students through fun exercises and engaging lesson plans.',
