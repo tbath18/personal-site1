@@ -49,7 +49,7 @@ const skills = [
   },
   {
     title: 'Numpy',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Data Engineering', 'Python'],
   },
   {
