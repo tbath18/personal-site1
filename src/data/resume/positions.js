@@ -59,7 +59,7 @@ const positions = [
     company: 'Feed My Starving Children',
     position: 'Volunteer',
     link: 'https://www.fmsc.org',
-    daterange: 'Ever since I can remember',
+    daterange: 'Ever since I can remember.',
     points: [
       'Package and store food which would later be shipped to third-world countries with communities in need of food.',
     ],
