@@ -25,7 +25,7 @@ const positions = [
     company: 'SCROLL',
     position: 'Co-founder',
     link: 'https://tbath18.github.io/web3/',
-    daterange: 'December 2022 - May 2024',
+    daterange: 'December 2022 - March 2024',
     points: [
       'Developing an application that uses generative AI to turn text(datasets, textbooks, websites) into a Social Media Style digestible feed, utilizing the infinite scroll effect. Working with Professors and PhD students in the Computer Science, Information Science and Business Departments at the University of Illinois.',
       'Participated in two Pitch Competitions for innovation receiving over $1,250 in funding and found that the product is 100% student and professor recommended. Joined I-Corps start-up accelerator.',
