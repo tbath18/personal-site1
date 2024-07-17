@@ -1,9 +1,20 @@
 const positions = [
   {
+    company: 'PNC Financial Services',
+    position: 'Data Science Intern',
+    link: 'https://en.wikipedia.org/wiki/PNC_Financial_Services',
+    daterange: 'May 2024 - Present',
+    points: [
+      'Utilized SQL for analyzing customer data to track which fin-techs customers use and the volume of transactions within those fin-techs. Used SQL to create a table of all customer transaction MCCs within the month of may that are related to Neo-Banks which was employed by the Fin-Tech Team.',
+      'Creating a concept application named "PNC Guardian" to protect individuals at heightened financial fraud risk. Using python and Excel to analyze fraud data and create visualizations to map at risk individuals.',
+    ],
+  },
+
+  {
     company: 'Synchrony Financial',
     position: 'Artificial Intelligence Intern',
     link: 'https://www.synchrony.com',
-    daterange: 'May 2023 - Present',
+    daterange: 'May 2023 - December 2023',
     points: [
       'Researched and found multiple ways to incorporate generative AI into the Fin-Tech space while also looking at the viability of AI in the market.',
       'Built an Object Detection bot using Python in the OpenCV library trained on custom data. This bot is used to scan and search for objects from Synchrony vendors through pictures on a database I designed of over 500 products.',
@@ -14,7 +25,7 @@ const positions = [
     company: 'SCROLL',
     position: 'Co-founder',
     link: 'https://tbath18.github.io/web3/',
-    daterange: 'December 2022 - Present',
+    daterange: 'December 2022 - May 2024',
     points: [
       'Developing an application that uses generative AI to turn text(datasets, textbooks, websites) into a Social Media Style digestible feed, utilizing the infinite scroll effect. Working with Professors and PhD students in the Computer Science, Information Science and Business Departments at the University of Illinois.',
       'Participated in two Pitch Competitions for innovation receiving over $1,250 in funding and found that the product is 100% student and professor recommended. Joined I-Corps start-up accelerator.',
@@ -37,47 +48,13 @@ const positions = [
     company: 'Center for Disease Control at UIUC',
     position: 'Research Assitant for Data Analysis',
     link: 'https://www.cdc.gov',
-    daterange: 'August 2022 - Present',
+    daterange: 'August 2022 - Decemeber 2022',
     points: [
       'Collaborated with Professor Rebecca Smith and other PhD students to create an online Data Analysis Application to measure mosquito insecticide effectiveness within the United States.',
       'Engineered the application using the R programming language and libraries such as ggplot, r-shiny and tidyr. Utilized data extracted from the CDC database to create meaningful visualizations.',
     ],
   },
-  {
-    company: 'Institute for Genomic Biology',
-    position: 'Bioinformatics Research Intern',
-    link: 'https://www.igb.illinois.edu',
-    daterange: 'January 2023 - Present',
-    points: [
-      'Working under Doctor Sandra Zas and Professor Bruce Southey to publish a paper on Differential alternative splicing genes and isoform co-expression networks of Brassica napus under multiple abiotic stresses.',
-      'Creating quantitative visualizations with the MISO software to make sashimi plots to find out about the “version” of a gene that are produced.',
-      'Working with Python in the Biopython library and SQL.',
-      'Utlized Libraries such as Pandas, Numpy, Sckilit-Learn, Matplotlib, Seaborn.',
-    ],
-  },
-  {
-    company: 'Tennis Academy',
-    position: 'Tennis Instructor',
-    link: '',
-    daterange: 'Runs Every Summer Since May, 2021',
-    points: [
-      'Conducted a tennis clinic for children aged 5 to 14 and procured lesson plans to teach the fundamentals of the sport.',
-      'Attained crucial leaderships skills by teaching and organizing youth camps of up to 16 eager tennis players.',
-      "Maintained welcoming and open communication channels for students' and their parents.",
-      'Instilled passion into over 20 students through fun exercises and engaging lesson plans.',
-    ],
-  },
-  {
-    company: 'Kumon',
-    position: 'Instructor',
-    link: 'https://www.kumon.com',
-    daterange: 'August 2020 - March 2021',
-    points: [
-      'Instructor for elementary school students in English literacy and mathematics up to algebra. Taught basic pronunciation, literacy, and basic addition to pre-school students. Evaluated the performance of students by logging results in an online database.',
-      'Tutored students aged 12 - 15 in areas of Probability/Statistics, Algebra, Geometry, Trigonometry, Calculus, and Classical Literature.',
-      'Worked with staff to help with day-to-day business operations. Maintained a clean and sanitary workspace for children during the Covid-19 Pandemic.',
-    ],
-  },
+
   {
     company: 'Feed My Starving Children',
     position: 'Volunteer',

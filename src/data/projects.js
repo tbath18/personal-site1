@@ -4,7 +4,7 @@ const data = [
     title: 'Illini Blockcahin Layer 2 Article',
     subtitle: '2015 BVP Hackathon',
     image: '/images/projects/comingsoon.jpg',
-    date: '2023-04-20',
+    date: '2024-07-20',
     desc:
       'Writing a Paper on Blockchain Layer 2 Performance. '
       + 'Using SQL and Python to analyze data on different Ethereum, Bitcoin and Solana Layer 2. '
@@ -16,7 +16,7 @@ const data = [
     subtitle: 'Used NLTK, python and Jupyter',
     link: '',
     image: '/images/projects/NLP.jpg',
-    date: '2023-01-20',
+    date: '2024-01-20',
     desc:
       'Used basic NLP to analyze Amazon Reviews to determine if a review is postive or negative. '
       + 'Used VADER sentiment scoring to compared that score with the amazon review Star system(1-5 starts) and Found that they are similar. '
