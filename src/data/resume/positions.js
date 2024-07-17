@@ -37,7 +37,7 @@ const positions = [
     company: 'Illini Blockchain',
     position: 'Data Science Researcher',
     link: 'https://illiniblockchain.com',
-    daterange: 'December 2022 - Present',
+    daterange: 'January 2023 - Present',
     points: [
       'Published a paper on Layer 2 Blockchain platforms and compared each network with data extracted from Flipside Crypto using python for data analysis. Developed leadership and teamwork skills while creating the paper as we learned to use SQL, do high level research, gain technical writing skills, and instill passion within each other.',
       'Used SQL to extract insights on these Layer 2 platforms specifically looking at variables that may affect Market Share such as the number of transactions per day and the number of users on each platform. Presented Findings at the Gies Blockchain Summit to Leaders in the blockchain field.',
