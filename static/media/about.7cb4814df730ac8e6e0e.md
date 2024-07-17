@@ -4,7 +4,7 @@
 My name is Tarun Bathini. I am a Senior at the University of Illinois at Urbana Champaign studying Data Science and Information Science. I am an active member in UIUC Club Tennis, Illini Blockchain, Data Science Club and EDM Club. My intrests include NLP, Blockchain, Artifical Intelligence, Machine Learning, Statistics, and  Data Science. 
 # Currently
 
-I am a Data Science Intern at PNC Financial and I am working on AI energy managment research project called EcoWise. I am also an aspiring Data Scientist and Machine Learning Engineer. I am looking for any full-time roles in the Data Science space for this summer.
+I am currently a Data Science Intern at PNC Financial and i'm also working on AI energy managment research project called EcoWise. My goal is to become a  Data Scientist and Machine Learning Engineer, thus I am looking for any full-time roles in the Data Science space for next summer.
 
 # I like
 
